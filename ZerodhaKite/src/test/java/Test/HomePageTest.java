@@ -22,7 +22,10 @@ public class HomePageTest {
 	public void demo1 () {
 		System.out.println("Rajik");
 	}
-		
+	@Test
+	public void demo2 () {
+		System.out.println("Rajik");
+	}
 		
 	
 	
