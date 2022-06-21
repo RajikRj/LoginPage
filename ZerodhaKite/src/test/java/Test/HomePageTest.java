@@ -14,6 +14,10 @@ public class HomePageTest {
 		
 		
 	}
+	@Test
+	public void demo () {
+		System.out.println("Rajik");
+	}
 		
 		
 	
